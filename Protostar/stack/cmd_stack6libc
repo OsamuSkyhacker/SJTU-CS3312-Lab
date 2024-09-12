@@ -1,0 +1,1 @@
+(python ./script_stack6libc.py ; cat) |  /opt/protostar/bin/stack6  

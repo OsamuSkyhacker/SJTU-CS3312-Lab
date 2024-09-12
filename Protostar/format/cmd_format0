@@ -1,0 +1,1 @@
+/opt/protostar/bin/format0 $(python script_format0.py)

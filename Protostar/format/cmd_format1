@@ -1,0 +1,3 @@
+cd /opt/protostar/bin/
+./format1 $(python /opt/protostar/script/format/script_format1.py)
+cd /opt/protostar/script/format/

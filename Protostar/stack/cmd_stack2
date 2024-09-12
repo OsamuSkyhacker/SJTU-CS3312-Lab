@@ -1,0 +1,1 @@
+export GREENIE=$(python script_stack2.py) &&  /opt/protostar/bin/stack2
