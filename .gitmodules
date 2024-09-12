@@ -1,0 +1,3 @@
+[submodule "SGX-RC4"]
+	path = SGX-RC4
+	url = git@github.com:OsamuSkyhacker/CS3312-SGX-RC4.git
