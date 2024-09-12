@@ -5,5 +5,5 @@
 运行方法
 
 ```shell
-python python script_race.py
+python script_race.py
 ```
