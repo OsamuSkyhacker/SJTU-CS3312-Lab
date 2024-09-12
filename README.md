@@ -1,6 +1,6 @@
 # SJTU-CS3312-Lab
 
-Course Lab for SJTU CS3312: Computer System Security (Spring 2023-2024)
+Course Labs for SJTU CS3312: Computer System Security (Spring 2023-2024)
 
 ## [Protostar Labs](https://github.com/OsamuSkyhacker/SJTU-CS3312-Lab/tree/main/Protostar)
 
